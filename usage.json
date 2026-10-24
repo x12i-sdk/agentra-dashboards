@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-dashboards",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-dashboards",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-dashboards",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/dashboards",
+  "example": {
+    "title": "Render a saved dashboard definition from local query results",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:29:38.460946+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "025cbfbb51f065e47e0b121b7b157c6a13ee771506faec78d075b434e768b5a9",
+    "manifestSha256": "b2b4e4df95bb5383c583d1c9f20b1cf900fa8dba789515ad0cbac2d5db1ae68e"
+  },
+  "validationFiles": {
+    "src/index.mjs": "025cbfbb51f065e47e0b121b7b157c6a13ee771506faec78d075b434e768b5a9"
+  }
+}
